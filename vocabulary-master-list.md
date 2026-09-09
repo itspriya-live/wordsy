@@ -1,0 +1,822 @@
+# Master Vocabulary List
+
+_Deduped and alphabetized from ChatGPT vocab exports._
+_Total unique entries: 743 · Updated 2026-08-29 (+63 new)_
+
+## A  (38)
+
+- Abasing
+- Aberration
+- Absurd
+- Abutting
+- Abysmal
+- Acceded
+- Accordance
+- Acute
+- Advocates
+- Affront
+- Afloat
+- Afoul
+- Agitation
+- Agonistic
+- Ailing
+- Akin
+- Alley
+- Ambient
+- Ameliorated
+- Amity
+- Anarchic
+- Anarchy
+- Antagonism
+- Antsy
+- Apex
+- Appalling
+- Apparatus
+- Appropriated
+- Arbitrary
+- Argued away
+- As often as not
+- Ascension
+- Assertive
+- Assertiveness
+- At the mercy
+- Autocratic
+- Automotive
+- Awful
+
+## B  (29)
+
+- Baffling
+- Battlefront
+- Beacon
+- Bear out
+- Beckon
+- Bemoan
+- Better off
+- Bewildered
+- Bewildering
+- Biding
+- Bizarre
+- Blared
+- Blaze
+- Blistering
+- Bolster
+- Bound up
+- Bracing
+- Braving
+- Brawled
+- Brazen
+- Bricked up
+- Brink
+- Browbeating
+- Brunt
+- Buffeted
+- Bungled
+- Bust
+- Butting heads
+- Buzzing
+
+## C  (59)
+
+- Call to arms
+- Captive
+- Casualities
+- Catfishing
+- Chiseling away
+- Chuckeled
+- Circumspect
+- Circumvent
+- Clip
+- Coercive
+- Coherently
+- Coincided
+- Colossal
+- Comical
+- Communism
+- Comoditized
+- Competence
+- Complacent
+- Compulsions of conformity
+- Conceivable
+- Conception
+- Condemn
+- Condemning
+- Condescending
+- Condescension
+- Conducive
+- Confisticated
+- Confrontation
+- Congestion
+- Conglomerate
+- Connived
+- Consensus
+- Consent
+- Contemporary
+- Contempt
+- Contended
+- Contentedness
+- Contestation
+- Conteststion
+- Contingencies
+- Contour
+- Convulse
+- Copious
+- Counterfactual
+- Counterintuitive
+- Counterstroke
+- Courted
+- Coveted
+- Crackdown
+- Crackpot
+- Crank out
+- Cranky
+- Crass
+- Crowded out
+- Curdled
+- Curtailments
+- Cut costs to the bone
+- Cybernetics
+- Cynical
+
+## D  (57)
+
+- Daintier
+- Dawned on
+- De facto
+- Deadening
+- Decisive
+- Deduction
+- De-facto
+- Deference
+- Defiant
+- Deflecting
+- Deliberation
+- Delicacy
+- Demographic
+- Demographics
+- Demote
+- Denounce
+- Deranged
+- Descend
+- Despicable
+- Detain
+- Detained
+- Detention
+- Deter
+- Detonate
+- Detritus
+- Devour
+- Dictum
+- Dire
+- Discrete
+- Discretion
+- Disdained
+- Disgraced
+- Disgruntled
+- Disguise
+- Dismal
+- Dismay
+- Dispatch
+- Dispend
+- Dispensed
+- Dissapte
+- Disseminating
+- Dissent
+- Distillery
+- Disuade
+- Docile
+- Docked
+- Doctrine
+- Donned
+- Dorment
+- Doubling down
+- Drab
+- Dramatic
+- Dread
+- Dreadful
+- Dreary
+- Dubious
+- Dynamism
+
+## E  (48)
+
+- Earnest
+- Eased
+- Eccentric
+- Ecstasy
+- Electoral
+- Elevation
+- Eloquently
+- Embittered
+- Emulate
+- Emulated
+- Enact
+- Enacting
+- Encased
+- Enclaves
+- Endowed
+- Endowments
+- Endured
+- Engulf
+- Enlisted
+- Enraged
+- Ensuing
+- Entail
+- Enthralls
+- Entice
+- Entitle
+- Entrenched
+- Entwined
+- Envied
+- Envisions
+- Epitome
+- Erratic
+- Estranges
+- Eternity
+- Ethos
+- Eugenics
+- Evasive
+- Exalting
+- Excerbated
+- Excruciating
+- Exert
+- Exertion
+- Exhortations
+- Exorbitantly
+- Expats
+- Expend
+- Expendable
+- Exploit
+- Extricating
+
+## F  (37)
+
+- Faltered
+- Faltering
+- Farce
+- Fathom
+- Fetish
+- Fidelity
+- Fierce
+- Fiscal
+- Fiscal quirks
+- Fixated
+- Fleeting
+- Flinch
+- Flurry
+- Flux
+- Flyby
+- Folded in
+- Foolhardy
+- Forage
+- Foray
+- Forbearance
+- Forebrain
+- Forfeited
+- Forged
+- Forgoing
+- Formidable
+- Fortitude
+- Fortress
+- Frantically
+- Free enterprise
+- Freewheeling
+- Fretted
+- Fringes
+- Frontier
+- Fumed
+- Fury
+- Fuss
+- Futility
+
+## G  (23)
+
+- Galled
+- Gambit
+- Gawked
+- Geared towards
+- Genial
+- Genteel
+- Gilded
+- Gingerly
+- Gleam
+- Gleaming
+- Glean
+- Gloom
+- Glory
+- Glumness
+- Gorges
+- Grappling
+- Grim
+- Grimacing
+- Gripped
+- Gropes
+- Groveling
+- Grovling
+- Grumbling
+
+## H  (34)
+
+- Hailed
+- Handily
+- Haplessly
+- Harangued
+- Harden itself
+- Hardheaded
+- Harness
+- Harp on
+- Harrowing
+- Hasty afterthought
+- Hauled
+- Headwinds
+- Hedge
+- Heeded
+- Hegemony
+- Hellish
+- Hemorrhaged
+- Heritage
+- Heuristic
+- Hinge
+- Hitch
+- Hoarded
+- Hobble
+- Holdouts
+- Hollow
+- Hooting
+- Horid
+- Hostile
+- Hostility
+- Hovers
+- Hukou
+- Hung over
+- Hustled
+- Hypocritical
+
+## I  (39)
+
+- Ideological
+- Illuminate
+- Imminent
+- Imperial
+- Imperialism
+- Imperialists
+- Implosion
+- Impose
+- Imprints
+- Inculcate
+- Incumbents
+- Incurred
+- Indefinitely
+- Indictment
+- Induced
+- Inducements
+- Indulge
+- Ineffectual
+- Inexplicably
+- Inflect
+- Inflicted
+- Ingenuity
+- Inhabit
+- Inhibited
+- Inlets
+- Innately
+- Inoculations
+- Inquisition
+- Insist
+- Instincts
+- Insulate
+- Insurrection
+- Intimately
+- Intractable
+- Intricacy
+- Intrinsically
+- Invariably
+- Irony
+- Irredemmeble
+
+## J  (3)
+
+- Jolted
+- Juddering
+- Jurisdiction
+
+## K  (2)
+
+- Kindled
+- Kneecapped
+
+## L  (21)
+
+- Lackluster
+- Languishing
+- Lapse
+- Leapt
+- Leftist
+- Levies
+- Liable
+- Liberties
+- Lim0
+- Limp
+- Lineage
+- Linger
+- Litigation
+- Livid
+- Loathe
+- Loose ends
+- Lopping off
+- Ludicrous
+- Lug
+- Lurk
+- Lusty
+
+## M  (26)
+
+- Machine gun
+- Malleable
+- Maneuver
+- Marred
+- Marveled
+- Marxism
+- Marxists
+- Masquerading
+- Mass transit
+- Meek
+- Menacing
+- Menial
+- Mercantilist
+- Mere
+- Middling
+- Mired
+- Miserly
+- Mobilization
+- Moisten
+- Mow down
+- Munitions
+- Muscle
+- Muscle out
+- Muster
+- Mustered
+- Mutilated
+
+## N  (12)
+
+- Nag
+- Nail down
+- Narrow margin of victory
+- Nash equilibrium
+- Nationalists
+- Neurosis
+- Nevertheless
+- Niche
+- Nimble
+- Nimbler
+- Novel
+- Numbing
+
+## O  (18)
+
+- Oblige
+- Obliqir
+- Obliterated
+- Obnoxious
+- Obscure
+- Obstruction
+- Off the beam
+- On tap
+- Onrush
+- Onslaught
+- Ought
+- Outclass
+- Outgoing
+- Outgrowing
+- Outright
+- Outsized
+- Overbearing
+- Oversaw
+
+## P  (70)
+
+- Pall
+- Paltry
+- Paradigm
+- Paradigms
+- Paradox
+- Paradoxical
+- Paramount
+- Pass muster
+- Pathologies
+- Pathology
+- Patrons
+- Pecking
+- Peddling
+- Peddling shortcuts
+- Perhaps
+- Perked up
+- Perpetuate
+- Perplexed
+- Personnel policy
+- Persuade
+- Persuasive
+- Pervades
+- Perversely
+- Petty
+- Petulance
+- Picayune
+- Pinnacle
+- Pitfall
+- Pitiable
+- Pleaded
+- Plight
+- Plummet
+- Plunge
+- Plunged
+- Pluralism
+- Poignant
+- Precipice
+- Preeminence
+- Preempts
+- Preening
+- Premise
+- Prescient
+- Preserving
+- Presidrd
+- Presume
+- Prevaded
+- Prevail
+- Prevailed upon
+- Probing
+- Probity
+- Proclaim
+- Profound
+- Proliferation
+- Prop up
+- Propaganda of the deed
+- Propel
+- Propelled
+- Propensity
+- Proposition
+- Prosecuting
+- Prosecutions
+- Protagonists
+- Protracted
+- Province
+- Prowess
+- Prudential
+- Prune
+- Pry
+- Pudgy
+- Pulverized
+
+## Q  (2)
+
+- Quagmire
+- Qualms
+
+## R  (51)
+
+- Radical
+- Ramification
+- Rammed
+- Raptur
+- Raucous
+- Rebate
+- Rebates
+- Rebuke
+- Rebut
+- Rebuttal
+- Receding
+- Reckon
+- Reconcile
+- Recoup
+- Recourse
+- Redistributive
+- Regime
+- Regimen
+- Regimented
+- Reigns
+- Reigns over
+- Rein
+- Reining
+- Rejuvination
+- Relent
+- Relentless
+- Remarked
+- Remit
+- Remnants
+- Repartriate
+- Repress
+- Repressiveness
+- Reproach
+- Repulsed
+- Repulsive
+- Resent
+- Resort
+- Restraining
+- Restraints
+- Retort
+- Retribution
+- Revulsion
+- Rightist
+- Rigid
+- Riled up
+- Riles up
+- Riveting
+- Ruins
+- Rumblings
+- Rummage
+- Rustle up
+
+## S  (87)
+
+- Salivate
+- Salivated
+- Sampling
+- Sanity
+- Saunter
+- Scorched
+- Scorned
+- Scramble
+- Searing
+- Seedy past
+- Seldom
+- Sense of agency
+- Sensible
+- Serene
+- Serenity
+- Shambles
+- Shatter
+- Shock troops
+- Shoddy
+- Shortchange
+- Shoved
+- Shoveling
+- Shoves
+- Shred
+- Shrewd
+- Shrieviled
+- Shrine
+- Shrugged
+- Sinister
+- Skirted
+- Slacken
+- Slammed
+- Sluggish
+- Slump
+- Smother
+- Smothered
+- Smothering
+- Snarled
+- Sniffy
+- Sober up
+- Social engineering
+- Socialism
+- Sore
+- Sought
+- Sparse
+- Spasm
+- Spasms
+- Spawned
+- Spearhead
+- Spectee
+- Specter
+- Spewing
+- Spick and span
+- Spirals
+- Sporadic
+- Sprang up
+- Spree
+- Spring up
+- Sprouting
+- Spurred
+- Sputtered
+- Staggered out
+- Stalling
+- Stanches
+- Stark
+- Startling
+- Stave off
+- Steadfastly
+- Steeped
+- Steer
+- Stem
+- Stifled
+- Stigmatizing
+- Sting
+- Stingy on welfare
+- Stomp
+- Strapped
+- Strewn
+- Struck
+- Stumbles
+- Sublime
+- Subsidies
+- Substantial
+- Succumbed
+- Sundry
+- Supine
+- Symphony
+
+## T  (31)
+
+- Tacit
+- Tactfulness
+- Take hold
+- Tame
+- Teleology
+- Temperament
+- Temperamental
+- Temporal locality
+- Tenable
+- Tendrills
+- Tenet
+- Terrain
+- Testament
+- Threadbare
+- Thrust
+- Topled
+- Torpedo
+- Tout
+- Tragic
+- Transcends
+- Transience
+- Tread
+- Tread on
+- Tremble
+- Tripping
+- Troupes
+- Tucked away
+- Tussle
+- Tussles
+- Twilight
+- Tyranny
+
+## U  (11)
+
+- Ubiquitous
+- Uncanny
+- Unceasing
+- Undershot
+- Unnerved
+- Unnverving
+- Unobtrusively
+- Unrest
+- Upstanding
+- Uptight
+- Utopian
+
+## V  (17)
+
+- Vague
+- Vanity
+- Varsity
+- Veered
+- Veil of ignorance
+- Vengence
+- Vetocracy
+- Vices
+- Vicious
+- Vigil
+- Vigilante
+- Vilifying
+- Virtue
+- Virtues
+- Vitality
+- Vivid
+- Vividly
+
+## W  (24)
+
+- Wagered
+- Wagged
+- Wean off
+- Wear down
+- Whiff
+- Whiled
+- Whimsical
+- Whipsawed
+- Wield
+- Wielding
+- Wither
+- Wittingly
+- Wizard of oz
+- Wobble
+- Woes
+- Worked up
+- Wound up
+- Wrath
+- Wreathed
+- Wrecked
+- Wrenching
+- Wrested
+- Writ
+- Writhed
+
+## Y  (2)
+
+- Yanked
+- Yawn
+
+## Z  (2)
+
+- Zeal
+- Zenith

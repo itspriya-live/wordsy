@@ -1,15 +1,15 @@
 # Wordsy — Learning Progress Tracker
 
-_Last updated: 2026-08-29 — RESTART (Day 1)_
+_Last updated: 2026-09-15 — Day 6_
 
 ## Status
 - **Total words:** 743
-- **Learned:** 15
-- **Remaining:** 728
+- **Learned:** 18
+- **Remaining:** 725
 - **Order:** THEMATIC, utility-first (see `word-index.md`)
 - **Format:** ENRICHED (meaning · register · ways-to-use · collocations · 4–6 examples · phrases · synonym contrast · trick · dialogue)
-- **Current position:** Theme 2 (Thinking, Knowledge & Understanding), next word: **Sought** (#18)
-- **Day:** Day 1 (2026-08-29)
+- **Current position:** Theme 2 (Thinking, Knowledge & Understanding), next word: **Bewildering** (#21)
+- **Day:** Day 6 (2026-09-15)
 - **Batch size:** 3/session (enriched format; user may bump to 5)
 
 ## Note on the restart
@@ -29,6 +29,7 @@ Re-test at +1, +3, +7, +16 days, then retire to "solid".
 | 2026-09-01 | 3 | Outclass, Personnel policy, Pinnacle | 3 | 9 | Exert, Expend, Menial |
 | 2026-09-03 | 4 | Prevail, Prowess, Zeal (Theme 1 COMPLETE) | 3 | 12 | Day-1 + Day-3 words |
 | 2026-09-04 | 5 | Instincts, Nail down, Reckon (Theme 2 start) | 3 | 15 | Day-2 + Day-4 words |
+| 2026-09-15 | 6 | Sought, Baffling, Bewildered (self-check 3/3) | 3 | 18 | Competence, Crank out, Emulate |
 
 ## Learned words (checklist)
 - [x] Competence
@@ -48,11 +49,14 @@ Re-test at +1, +3, +7, +16 days, then retire to "solid".
 - [x] Instincts
 - [x] Nail down
 - [x] Reckon
+- [x] Sought
+- [x] Baffling
+- [x] Bewildered
 
 ## Review queue (due dates)
-- Competence : 2026-09-10 (+7)
-- Crank out : 2026-09-10 (+7)
-- Emulate : 2026-09-10 (+7)
+- Competence : 2026-10-01 (+16)
+- Crank out : 2026-10-01 (+16)
+- Emulate : 2026-10-01 (+16)
 - Exert : 2026-09-11 (+7)
 - Expend : 2026-09-11 (+7)
 - Menial : 2026-09-11 (+7)
@@ -65,3 +69,6 @@ Re-test at +1, +3, +7, +16 days, then retire to "solid".
 - Instincts : 2026-09-05 (+1)
 - Nail down : 2026-09-05 (+1)
 - Reckon : 2026-09-05 (+1)
+- Sought : 2026-09-16 (+1)
+- Baffling : 2026-09-16 (+1)
+- Bewildered : 2026-09-16 (+1)
